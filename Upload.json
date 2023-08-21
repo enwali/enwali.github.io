@@ -1,7 +1,7 @@
 {
 	"versionCode": 1,
 	"isForceUpdate": 0,
-	"preBaselineCode": 24,
+	"preBaselineCode": 0,
 	"versionName": "v2.3.1",
 	"downurl": "https://enwali.github.io/yulan/apk/YuLanTV_V1.0.1_20230814.apk",
 	"updateLog": "1、优化细节和体验，更加稳定\n2、引入大量优质用户\r\n3、修复已知bug\n4、风格修改",
